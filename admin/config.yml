@@ -3,7 +3,6 @@ backend:
   repo: frontcraft/blogpost
   branch: master
   site_domain: tailor-checkers-70681.netlify.com
-publish_mode: editorial_workflow
 media_folder: "images/uploads"
 
 collections:
